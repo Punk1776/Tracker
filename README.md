@@ -16,6 +16,8 @@ A simple command-line application for tracking employees, departments, and roles
 - [Contributing](#contributing)
 - [License](#license)
 
+[Untitled_ Sep 22 2023 12_03 PM.webm](https://github.com/Punk1776/Tracker/assets/135387049/7326542a-7bcd-468d-9a72-0d91c80a0923)
+
 ## Introduction
 
 The Employee Tracker Application is a command-line tool that allows you to manage employees, departments, and roles within your organization. It provides features such as viewing all departments, roles, and employees, adding new departments, roles, and employees, and updating employee information.
